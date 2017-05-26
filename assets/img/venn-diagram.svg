@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="862px" height="606px" viewBox="0 0 862 606" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-19.3%" y="-30.9%" width="138.5%" height="162.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="45" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FF8800" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FF8800" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="KnowAre-Full" transform="translate(-289.000000, -1409.000000)">
+            <g id="Oval" filter="url(#filter-1)" transform="translate(376.000000, 1494.000000)">
+                <ellipse id="Oval-2" fill="url(#linearGradient-2)" opacity="0.825011322" cx="211.470286" cy="216.180788" rx="211.470286" ry="216.180788"></ellipse>
+                <ellipse id="Oval-2-Copy" fill="url(#linearGradient-3)" opacity="0.825011322" cx="476.470286" cy="216.180788" rx="211.470286" ry="216.180788"></ellipse>
+                <g id="Text" transform="translate(116.000000, 176.000000)" font-size="24" font-family="Prompt-Light, Prompt" fill="#FFFFFF" font-weight="300">
+                    <text id="ระดมทุน">
+                        <tspan x="1" y="46">ระดมทุน</tspan>
+                    </text>
+                    <text id="คืนกำไร-สู่สังคม">
+                        <tspan x="190" y="26">คืนกำไร</tspan>
+                        <tspan x="190.528" y="62">สู่สังคม </tspan>
+                    </text>
+                    <text id="เน้นผลกำไร">
+                        <tspan x="360.684" y="46">เน้นผลกำไร </tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
