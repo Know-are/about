@@ -137,7 +137,8 @@ p{
   background: #0d0d0d;
   color: #fff;
   font-weight: 200;
-  position: relative;
+  position: fixed;
+  z-index: 999;
 }
 
 .knoware-navbar a{
